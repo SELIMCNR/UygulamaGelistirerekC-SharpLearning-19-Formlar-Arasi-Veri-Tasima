@@ -1,0 +1,11 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\bin\Debug\Formlar-Arası-Veri-Tasima.exe.config
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\bin\Debug\Formlar-Arası-Veri-Tasima.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\bin\Debug\Formlar-Arası-Veri-Tasima.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar-Arası-Veri-Tasima.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Form2.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar_Arası_Veri_Tasima.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar-Arası-Veri-Tasima.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar-Arası-Veri-Tasima.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar-Arası-Veri-Tasima.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project26\Formlar-Arası-Veri-Tasima\Formlar-Arası-Veri-Tasima\obj\Debug\Formlar-Arası-Veri-Tasima.pdb
